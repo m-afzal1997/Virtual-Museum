@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 29a32b141fe076e4d8f54f4d43b149fd
+timeCreated: 1440533066
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49530
+  packageName: Old Japanese Coin
+  packageVersion: 1.0
+  assetPath: Assets/Japanese Coin/Environment/plane_mat.mat
+  uploadId: 90877

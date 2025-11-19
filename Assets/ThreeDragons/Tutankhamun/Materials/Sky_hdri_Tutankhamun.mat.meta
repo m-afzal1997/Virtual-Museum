@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 579908a7df7be4f4b9b96f94e23fb23e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 227598
+  packageName: Tutankhamun's Mask
+  packageVersion: 1.0
+  assetPath: Assets/ThreeDragons/Tutankhamun/Materials/Sky_hdri_Tutankhamun.mat
+  uploadId: 521959

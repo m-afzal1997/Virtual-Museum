@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 91ca56a048bf2f74cb0ed22b89b44311
+timeCreated: 1440371661
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49530
+  packageName: Old Japanese Coin
+  packageVersion: 1.0
+  assetPath: Assets/Japanese Coin/Environment/Environment.mat
+  uploadId: 90877

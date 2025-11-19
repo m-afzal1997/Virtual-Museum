@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d9d57b2610286ba4ea08ed5ddc2c1fcc
+timeCreated: 1448173596
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49530
+  packageName: Old Japanese Coin
+  packageVersion: 1.0
+  assetPath: Assets/Japanese Coin/hello there.txt
+  uploadId: 90877

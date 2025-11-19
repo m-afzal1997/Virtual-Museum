@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1c1e4511c3b0a434a8894e6818cd88a7
+timeCreated: 1469332554
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 68373
+  packageName: The Samurai Sword
+  packageVersion: 1.4
+  assetPath: Assets/JTS_TheSamuraiSword/Demo/Prefabs/Tatami_Prefab.prefab
+  uploadId: 337636

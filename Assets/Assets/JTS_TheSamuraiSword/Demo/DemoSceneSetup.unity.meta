@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6ed5f6d81d450a04c8aed1a017e8851d
+timeCreated: 1470253920
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 68373
+  packageName: The Samurai Sword
+  packageVersion: 1.4
+  assetPath: Assets/JTS_TheSamuraiSword/Demo/DemoSceneSetup.unity
+  uploadId: 337636

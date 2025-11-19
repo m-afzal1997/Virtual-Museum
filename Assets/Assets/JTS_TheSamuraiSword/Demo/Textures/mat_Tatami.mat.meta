@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4146e79b747baac42b43c514f18bbc43
+timeCreated: 1469324660
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 68373
+  packageName: The Samurai Sword
+  packageVersion: 1.4
+  assetPath: Assets/JTS_TheSamuraiSword/Demo/Textures/mat_Tatami.mat
+  uploadId: 337636
