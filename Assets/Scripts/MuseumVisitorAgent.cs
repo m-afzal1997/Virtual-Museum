@@ -30,7 +30,7 @@ public class MuseumVisitorAgent : MonoBehaviour
 
     [Header("Target Selection Settings")]
     [Tooltip("How often (in seconds) the agent checks for new targets")]
-    [Range(0.5f, 10f)]
+    [Range(0.5f, 30f)]
     public float targetSearchInterval = 2f;
 
     [Tooltip("Should the agent cycle through targets in order?")]
@@ -64,6 +64,7 @@ public class MuseumVisitorAgent : MonoBehaviour
     public Color debugLineColor = Color.cyan;
 
     // Private variables
+    [SerializeField]
     private MuseumVisitorManager manager;
     private float lastTargetSearchTime = 0f;
     private float waitEndTime = 0f;
